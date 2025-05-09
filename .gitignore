@@ -1,1 +1,4 @@
 dataset/
+personal_dataset/
+*.keras
+*.h5
